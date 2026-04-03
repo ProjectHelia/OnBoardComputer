@@ -1,2 +1,1 @@
-# OnBoardComputer
-All the code for all on board MCUs!
+# On Board Computer
